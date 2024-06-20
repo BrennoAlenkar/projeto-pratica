@@ -6,12 +6,10 @@
 }
 
 body {
-    height: 100vh;
     font-family: "Inter", sans-serif;
 }
 
 .menu {
-    height: 100px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -43,7 +41,7 @@ body {
 }
 
 .head_line {
-    margin-top: 119px;
+    padding: 5%;
     display: flex;
     flex-direction: column;
     align-items: center;
